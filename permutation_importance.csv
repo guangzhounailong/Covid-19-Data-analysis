@@ -1,0 +1,9 @@
+feature,feature_label,importance,importance_std
+continent,Continent,0.049569884683573144,0.060399973801995875
+diabetes_prevalence,Diabetes prevalence,0.000582010582010617,0.027464714550251956
+gdp_per_capita,GDP per capita,-0.0003327953222988696,0.042669540778584224
+median_age,Median age,-0.0007958548011765802,0.054336839874488646
+life_expectancy,Life expectancy,-0.008962406026218717,0.038906283293846
+population_density,Population density,-0.018106697224344263,0.016478399081307583
+people_fully_vaccinated_per_hundred,Full vaccination rate,-0.025067481538069755,0.019024820596994455
+hospital_beds_per_thousand,Hospital beds per thousand,-0.051513878278584106,0.026030549507985713

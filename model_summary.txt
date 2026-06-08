@@ -1,0 +1,38 @@
+COVID-19 high mortality risk classification
+
+Input file: DataCleaning\compact_clean.csv
+Country-level rows used: 239
+High-risk threshold: 2000.45 deaths per million
+High-risk countries: 60
+Low/medium-risk countries: 179
+Best model by F1 score: Random Forest
+
+Model metrics:
+              model  accuracy  precision  recall       f1  roc_auc
+Logistic Regression  0.800000   0.571429     0.8 0.666667 0.915556
+      Random Forest  0.833333   0.631579     0.8 0.705882 0.933333
+
+Classification reports:
+
+Logistic Regression
+===================
+                 precision    recall  f1-score   support
+
+Low/Medium Risk       0.92      0.80      0.86        45
+      High Risk       0.57      0.80      0.67        15
+
+       accuracy                           0.80        60
+      macro avg       0.75      0.80      0.76        60
+   weighted avg       0.84      0.80      0.81        60
+
+
+Random Forest
+=============
+                 precision    recall  f1-score   support
+
+Low/Medium Risk       0.93      0.84      0.88        45
+      High Risk       0.63      0.80      0.71        15
+
+       accuracy                           0.83        60
+      macro avg       0.78      0.82      0.79        60
+   weighted avg       0.85      0.83      0.84        60

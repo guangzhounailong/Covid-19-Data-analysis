@@ -1,0 +1,14 @@
+feature,feature_label,importance
+median_age,Median age,0.19382422604208835
+gdp_per_capita,GDP per capita,0.17526227658328142
+life_expectancy,Life expectancy,0.16488735905538676
+hospital_beds_per_thousand,Hospital beds per thousand,0.09917319537066438
+continent_Asia,Continent: Asia,0.06457325055860405
+population_density,Population density,0.06346709596799938
+diabetes_prevalence,Diabetes prevalence,0.05766082677520852
+people_fully_vaccinated_per_hundred,Full vaccination rate,0.05015474044336846
+continent_Europe,Continent: Europe,0.04926625326524572
+continent_South America,Continent: South America,0.039742579027729125
+continent_Africa,Continent: Africa,0.02406517909785106
+continent_Oceania,Continent: Oceania,0.011334259148946839
+continent_North America,Continent: North America,0.0065887586636259494
